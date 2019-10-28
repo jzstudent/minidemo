@@ -15,6 +15,7 @@ minicontrol.py是助教开发的控制程序，订阅图像和状态信息，通
 - pip
 - Python OpenCV
 - Numpy 
+- 同之前一样安装h264
 
 
 
